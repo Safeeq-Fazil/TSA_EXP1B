@@ -103,4 +103,4 @@ plt.show()
 
 
 ### RESULT:
-Thus we have created the python code for the conversion of non stationary to stationary data on vegetable price data.
+Thus the python code has created for the conversion of non stationary to stationary data on vegetable price data.
