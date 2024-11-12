@@ -1,6 +1,6 @@
 ## Developed By: SAFEEQ FAZIL A
 ## Register no : 212222240086
-## Date: 
+## Date: 17.08.2024
 
 # Ex.No: 1B  CONVERSION OF NON STATIONARY TO STATIONARY DATA
 
